@@ -20,7 +20,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd /mnt-ownclouds3/HumanScans/TC2_scans_texture_processed//textures-png/Adam/darker/A-Team_WavyLightBrown.png
+map_Kd A-Team_WavyLightBrown.png
 
 newmtl adambody
 Ns 225.000000
@@ -31,7 +31,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd /mnt-ownclouds3/HumanScans/TC2_scans_texture_processed//textures-png/Adam/darker/AdamBody_1K_Pants_Black_Blended_Darker.png
+map_Kd AdamBody_1K_Pants_Black_Blended_Darker.png
 
 newmtl adamhead
 Ns 225.000000
@@ -42,7 +42,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd /mnt-ownclouds3/HumanScans/TC2_scans_texture_processed//textures-png/Adam/darker/average head_skin_hi_Darker.png
+map_Kd average head_skin_hi_Darker.png
 
 newmtl adamlefteye
 Ns 225.000000
@@ -53,7 +53,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd /mnt-ownclouds3/HumanScans/TC2_scans_texture_processed//textures-png/Adam/darker/average head_eyeL_hi.jpg
+map_Kd average head_eyeL_hi.jpg
 
 newmtl adamrighteye
 Ns 225.000000
@@ -64,4 +64,4 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd /mnt-ownclouds3/HumanScans/TC2_scans_texture_processed//textures-png/Adam/darker/average head_eyeR_hi.jpg
+map_Kd average head_eyeR_hi.jpg
