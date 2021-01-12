@@ -1,0 +1,67 @@
+# Blender MTL File: 'None'
+# Material Count: 6
+
+newmtl Material
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl adambaseshort
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /mnt-ownclouds3/HumanScans/TC2_scans_texture_processed//textures-png/Adam/darker/A-Team_WavyLightBrown.png
+
+newmtl adambody
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /mnt-ownclouds3/HumanScans/TC2_scans_texture_processed//textures-png/Adam/darker/AdamBody_1K_Pants_Black_Blended_Darker.png
+
+newmtl adamhead
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /mnt-ownclouds3/HumanScans/TC2_scans_texture_processed//textures-png/Adam/darker/average head_skin_hi_Darker.png
+
+newmtl adamlefteye
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /mnt-ownclouds3/HumanScans/TC2_scans_texture_processed//textures-png/Adam/darker/average head_eyeL_hi.jpg
+
+newmtl adamrighteye
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /mnt-ownclouds3/HumanScans/TC2_scans_texture_processed//textures-png/Adam/darker/average head_eyeR_hi.jpg
